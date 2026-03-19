@@ -1,10 +1,11 @@
 # hey, i'm monu — venux09 👋
 
-17 year old kid from India who spends most of his 
-time writing Python and figuring things out.
+i am 17 year old who is not afraid of learning new things
+and i always try to improve and think more sharpely.
 
-I don't go to school daily. I study on my own,
-build projects, mess things up and learn from it.
+I study all things on my own and stay consistent
+with my work , i work on my projects even though
+i am still  learning stage but building teaches more than theory.
 That's pretty much my routine.
 
 ---
