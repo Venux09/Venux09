@@ -56,19 +56,7 @@ news app, password manager, turtle racing game
 and more. started feeling like i actually
 know what i'm doing here.
 
----
 
-## github stats:
-
-![venux09's GitHub stats](https://github-readme-stats.vercel.app/api?username=venux09&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venux09&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=venux09&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
