@@ -55,6 +55,10 @@ every single one taught me something.
 news app, password manager, turtle racing game
 and more. started feeling like i actually
 know what i'm doing here.
+--working on a study tool where you can upload your pdf and can get summary and flashcards and quiz question
+it has a fucntion of cahtting with too which is given the role of assistant of this project as ai study tool 
+i am gonna deploy it to web also..
+--- i also maked some tools like notes_generator and socail profile reviewer. so they were good too.
 
 
 
