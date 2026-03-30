@@ -19,6 +19,3 @@ Python · Flask · Data Science · Git
 ### 📊 GitHub Stats
 ![Monu's GitHub stats](https://github-readme-stats.vercel.app/api?username=venux09&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-*Building in public · Learning every day*
