@@ -5,7 +5,7 @@ Self-taught developer & aspiring AI/ML engineer from India.
 ---
 
 ### 🛠 Tech Stack
-Python · Flask · Data Science · Git
+Self-taught · Flask · Data Science · Git
 
 ### 🚀 Currently
 - Learning Data Science
@@ -16,5 +16,7 @@ Python · Flask · Data Science · Git
 
 ### 📌 Featured Project
 **[StudyZoneCodex](https://github.com/venux09/studyzonecodex)** — AI-powered PDF study platform. Upload any PDF → get summaries, quizzes & AI chat.https://studyzonecodex-3.onrender.com/ --> it is the link it is live now .. will add features in future 
+### 👾
+
 
 
