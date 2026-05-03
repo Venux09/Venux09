@@ -8,10 +8,9 @@ Self-taught developer & aspiring AI/ML engineer from India.
 Self-taught · Flask · Data Science · Git
 
 ### 🚀 Currently
-- Learning Data Science
-- Building AI-powered web apps
-- Preparing for Class 12 & CUET
-- like to work in stucture
+-  i am working on my skill set and also working  on some project while learing that skill basically learning projects
+-  right now i am understanding the sql.
+-  studying for the secondary high school.
 ### my favorite anime is black clover only otaku know how much good it was 
 
 ### 📌 Featured Project
