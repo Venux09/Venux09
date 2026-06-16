@@ -1,11 +1,11 @@
 # Hey, I'm Monu 👋
 
-Self-taught developer & aspiring AI/ML engineer from India.
+developer & aspiring AI/ML engineer from India.
 
 ---
 
 ### 🛠 Tech Stack
-Self-taught · Flask · Data Science · Git
+ Flask · Data Science · Git
 
 ### 🚀 Currently
 -  i am working on my skill set and also working  on some project while learing that skill basically learning projects
