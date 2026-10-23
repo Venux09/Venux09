@@ -5,7 +5,7 @@ developer & aspiring AI/ML engineer from India.
 ---
 
 ### 🛠 Tech Stack
-Machine learning , python , data science, sql , projects 
+Machine learning , python , data science, sql , projects , numpy  , pandas , matplotlib  
 
 ### 🚀 Currently
 - Learning the book called python data science handbook and maths for machine learning .
